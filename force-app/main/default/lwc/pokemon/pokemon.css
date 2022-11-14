@@ -1,0 +1,18 @@
+.search-and-filter {
+    width: 50vh;
+    display: inline-block;
+    margin-left: 19em;
+    justify-content: center;
+    text-align: center;
+} 
+.contador {
+    font-size: x-small;
+    font-weight: bolder;
+    display: inline-block;
+    margin-left: 43em;
+    justify-content: center;
+    border-radius: 2vh;
+    background-color: rgba(153, 0, 0, 0.137);
+    padding: 1vh;
+    box-shadow: 1vh rgb(221, 217, 217);
+}
